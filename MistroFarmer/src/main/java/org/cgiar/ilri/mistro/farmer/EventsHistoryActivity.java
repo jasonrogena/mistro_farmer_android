@@ -41,7 +41,7 @@ import java.util.List;
 public class EventsHistoryActivity extends SherlockActivity implements View.OnClickListener {
     private static final String TAG="EventsHistoryActivity";
 
-    private Menu menu;;
+    private Menu menu;
     private TableLayout eventsHistoryTL;
     private TextView dateTV;
     private TextView cowNameTV;
